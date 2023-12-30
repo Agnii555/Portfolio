@@ -3517,3 +3517,12 @@ a {
 #video-section {
 	margin: 0 auto 2%;
 }
+
+.head {
+    display: flex;
+    flex-direction: column;
+}
+
+.head a {
+	color: rgba(255, 255, 255, 0.5);
+}
