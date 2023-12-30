@@ -2610,6 +2610,9 @@ input, select, textarea {
 		width: 35%;
 	}
 
+	#header .modal-content {
+		text-align: left;
+	}
 		#header > * {
 			-moz-flex-shrink: 0;
 			-webkit-flex-shrink: 0;
