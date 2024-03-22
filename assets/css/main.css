@@ -3547,3 +3547,10 @@ a {
 	font-size: 16px;
 	padding: 0;
 }
+.design img:hover {
+    -webkit-filter: blur(4px); /* Chrome, Safari, Opera */
+    filter: blur(4px);
+}
+.design img {
+   margin: 20px auto;
+}
